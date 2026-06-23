@@ -53,4 +53,4 @@ Advanced methods such as TF-IDF and Byte-Pair Encoding (BPE) are also tested.
 - TF-IDF vectorization
 - Byte-Pair Encoding (BPE)
 - Machine learning classification
-- Interactive prediction system bunu nereye yazıyorum 
+- Interactive prediction system  
